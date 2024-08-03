@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @aantoo-cr
+- 👀 I’m studying Ingeniería civil informática en la UFRO
+- 🌱 I’m currently learning Linux and Java
